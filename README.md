@@ -22,7 +22,7 @@ Railgun 签到脚本使用 **Cookie** 进行登录。**Cookie** 和 **网址Api*
 
 1. 登录 [Railgun 官网](https://railgun.info/)，进入[签到面板](https://railgun.info/console/checkin) 
 2. 按 `F12` 打开浏览器开发者工具 → 切到 **网络(Network)**
-3. 刷新一下网页或点击一次“签到”按钮，浏览器开发者工具**Name**(名称)中会出现`checkin`字样，点击`checkin`
+3. 刷新一下网页或点击一次“签到”按钮，浏览器开发者工具**Name**(名称)中会出现`console`字样，点击`console`
 4. 在 **Headers** 中下滑找到 **Cookies** ，找到以下字段并完整复制：
 
 ```txt
